@@ -1,0 +1,98 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (OpenGL-basico.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  main.cpp
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(31,32): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(32,33): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(321,31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(351,61): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(351,56): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(351,32): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(392,22): warning C4305: 'argumento': truncamiento de 'double' a 'irrklang::ik_f32'
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(396,22): warning C4305: 'argumento': truncamiento de 'double' a 'irrklang::ik_f32'
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(457,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(460,43): warning C4244: '=': conversión de 'double' a 'time_t'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(686,14): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(687,14): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(741,18): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(742,15): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(746,13): warning C4244: 'inicializando': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(749,20): warning C4244: 'inicializando': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(753,48): warning C4805: '==': combinación no segura del tipo 'float' y el tipo 'bool' en la operación
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(759,23): warning C4244: 'inicializando': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(763,48): warning C4805: '==': combinación no segura del tipo 'float' y el tipo 'bool' en la operación
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(946,23): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1042,28): warning C4244: 'inicializando': conversión de 'double' a 'time_t'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1246,33): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1305,33): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1567,35): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1567,29): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1569,31): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1569,24): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1571,41): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1571,24): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1573,45): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1573,29): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1595,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1601,47): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1601,23): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1602,24): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1603,41): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1603,23): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1604,38): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1604,24): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1605,51): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1605,23): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1606,32): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1607,57): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1607,23): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1618,20): warning C4244: 'inicializando': conversión de 'double' a 'time_t'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1619,20): warning C4244: 'inicializando': conversión de 'double' a 'time_t'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1630,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1636,47): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1636,23): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1637,24): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1638,41): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1638,23): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1639,38): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1639,24): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1640,51): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1640,23): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1641,32): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1642,57): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1642,23): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1659,46): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1659,22): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1661,40): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1661,22): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1663,50): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1663,22): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1665,56): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1665,22): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1785,21): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1789,14): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1799,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1800,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1838,19): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1839,19): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1840,19): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1842,15): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(1844,15): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  helpers.cpp
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(7,16): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(7,13): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(8,20): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(8,15): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(9,18): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(9,13): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(10,22): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(10,15): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(13,16): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(13,13): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(14,20): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(14,15): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(15,18): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(15,13): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(16,22): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\OpenGL-basico\helpers.cpp(16,15): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+  Generando código...
+C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\main.cpp(248,1): warning C4715: 'getAngle': no todas las rutas de acceso de control devuelven un valor
+  OpenGL-basico.vcxproj -> C:\Users\Admin\Downloads\Computaci-nGr-ficaJuegoOpenGL\Debug\Bomberman.exe
