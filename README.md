@@ -41,7 +41,8 @@ This project was developed as part of a Computer Graphics course, aiming to unde
 
 ## 🚀 How to run
 
-1. Clone the repository
-2. Open in Microsoft Visual Studio
-3. Click on the green arrow (Start)
+1. Download the project as a ZIP file  
+2. Extract the ZIP to a local folder  
+3. Open `Bomberman.sln` using Microsoft Visual Studio  
+4. Build and run the project (click the green "Start" button)
 
