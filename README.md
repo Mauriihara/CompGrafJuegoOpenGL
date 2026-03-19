@@ -1,6 +1,6 @@
 # 🧨 Bomberman 3D – OpenGL Project
 
-This project is a Bomberman-inspired 3D game developed in C++ using OpenGL, focused on applying core concepts of Computer Graphics in a real-time interactive environment.
+This project is a Bomberman-inspired 3D game developed in C++ using OpenGL, focused on applying core concepts of Computer Graphics in a real-time interactive environment. It was developed as part of a university course in collaboration with two teammates.
 
 ## 🎮 Features
 
